@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\bin\Debug\IvanArsua.PlayingALocalVideoFile.exe.config
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\bin\Debug\IvanArsua.PlayingALocalVideoFile.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\bin\Debug\IvanArsua.PlayingALocalVideoFile.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\IvanArsua.PlayingALocalVideoFile.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\IvanArsua.PlayingALocalVideoFile_MarkupCompile.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\IvanArsua.PlayingALocalVideoFile_MarkupCompile.lref
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\IvanArsua.PlayingALocalVideoFile.g.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\IvanArsua.PlayingALocalVideoFile.Properties.Resources.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\IvanArsua.PlayingALocalVideoFile.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\IvanArsua.PlayingALocalVideoFile.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\IvanArsua.PlayingALocalVideoFile.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Playing a local Video file\IvanArsua.PlayingALocalVideoFile\IvanArsua.PlayingALocalVideoFile\obj\Debug\IvanArsua.PlayingALocalVideoFile.pdb

@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -23,6 +25,53 @@ namespace IvanArsua.PlayingALocalVideoFile
         public MainWindow()
         {
             InitializeComponent();
+            VideoControl.Volume = 100;
+
+            VideoControl.Width = 498;
+
+            VideoControl.Height = 317;
+        }
+
+        private void BrowseClick(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openDlg = new OpenFileDialog();
+
+            openDlg.InitialDirectory = @"c:\";
+
+            openDlg.ShowDialog();
+
+            txtMediaPathTextBox.Text = openDlg.FileName;
+        }
+
+        public class Uri : System.Runtime.Serialization.ISerializable
+{
+            public void GetObjectData(SerializationInfo info, StreamingContext context)
+            {
+                throw new NotImplementedException();
+            }
+        }
+
+        private void btnPlay_Click(object sender, RoutedEventArgs e)
+        {
+            if (txtMediaPathTextBox.Text.Length <= 0)
+            {
+                MessageBox.Show("Enter a valid media file");
+            }
+            
+            VideoControl.Source = new System.Uri(txtMediaPathTextBox.Text);
+            VideoControl.Play();
+        }
+
+   
+
+        private void btnPause_Click(object sender, RoutedEventArgs e)
+        {
+            VideoControl.Pause();
+        }
+
+        private void btnStop_Click(object sender, RoutedEventArgs e)
+        {
+            VideoControl.Stop();
         }
     }
 }
